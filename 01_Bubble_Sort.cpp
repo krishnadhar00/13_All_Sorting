@@ -14,8 +14,7 @@
 // Stable : 20 30 30* 40 50     and unstable : 20 30* 30 40 50 
 // So bubble sort is a stable sorting algorithm.
 
-// for commiting 
-// for 2nd commiting 
+
 #include<iostream>
 #include<vector>
 using namespace std;
